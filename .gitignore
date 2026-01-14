@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ParaView generated files
+*.pvsm
+*.pvd
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Output files (uncomment if you don't want to track results)
+# *.png
+# *.jpg
+# *.stl
