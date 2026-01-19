@@ -1,6 +1,6 @@
-# Paraview Skill
+# Paraview Skills
 
-> **Early Stage Project**: This skill is in early development and may contain bugs or unexpected behaviors. Contributions, bug reports, and discussions are very welcome!
+> **Early Stage Project**: These skills are in early development and may contain bugs or unexpected behaviors. Contributions, bug reports, and discussions are very welcome!
 
 A Claude Code skill for scientific visualization with ParaView. This skill trying to enable Claude CLI to help you create and manipulate 3D scientific visualizations including volume rendering, isosurfaces, streamlines, and more.
 
